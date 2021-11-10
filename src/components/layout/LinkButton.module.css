@@ -1,0 +1,14 @@
+.btn {
+  background-color: var(--black);
+  color: var(--white);
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  transition: 0.5s;
+  border-radius: 25rem;
+}
+
+.btn:hover {
+  color: var(--yellow);
+  background-color: var(--black);
+  box-shadow: 0px 1px 3px rgba(34, 34, 34, 0.301);
+}
